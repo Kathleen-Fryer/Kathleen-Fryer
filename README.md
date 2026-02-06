@@ -1,6 +1,8 @@
 ## Hello there ⋆˙⟡
+###I'm Kathleen Fryer - Student at Makers, career changer, and 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,vscode,html,github)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,grafana&perline=3)](https://skillicons.dev)
 
 
 <!--
