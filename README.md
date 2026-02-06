@@ -1,10 +1,15 @@
 ## Hello there ⋆˙⟡
+
 ###I'm Kathleen Fryer
+
 Just completed the Full Stack foundations bootcamp at Makers and now studying on the Cloud Engineering course. 
+
+Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,vscode,html,github)](https://skillicons.dev)
 
 Currently Learning: 
+
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,grafana)](https://skillicons.dev)
 
 
