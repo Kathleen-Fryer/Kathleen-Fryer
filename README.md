@@ -1,6 +1,6 @@
 ## Hello there ⋆˙⟡
 
-###I'm Kathleen Fryer
+I'm Kathleen Fryer,
 
 Just completed the Full Stack foundations bootcamp at Makers and now studying on the Cloud Engineering course. 
 
